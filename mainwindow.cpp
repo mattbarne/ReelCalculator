@@ -43,7 +43,7 @@ MainWindow::MainWindow(QWidget *parent)
     layout->addWidget(clearanceLabel);
 
     setCentralWidget(central);
-    setWindowTitle("Cerro Reel Calculator");
+    setWindowTitle("Reel Size Calculator");
     /* Will add image later, ain't got time for all that.
     setWindowIcon(QIcon(""));
                                             */
