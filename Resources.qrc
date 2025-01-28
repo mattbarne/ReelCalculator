@@ -1,5 +1,6 @@
 <RCC>
-    <qresource prefix="/">
-        <file>CerroLogo.png</file>
+    <qresource prefix="/images"/>
+    <qresource prefix="/styles">
+        <file>Style.qss</file>
     </qresource>
 </RCC>

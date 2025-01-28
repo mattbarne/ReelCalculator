@@ -23,6 +23,7 @@ struct Reel {
     double width;
     double diameter;
     double volume;
+    double clearance;
 };
 
 class MainWindow : public QMainWindow
@@ -41,6 +42,7 @@ private:
     QComboBox   *comboBox;
     QPushButton *inputSubmit;
     QLabel      *resultLabel;
+    QLabel      *clearanceLabel;
 
     double getQuadA(double traverse, double cableDiameter);
     double getQuadB(double quadA, double drum, int stackCount, double xValue = 0.0);
