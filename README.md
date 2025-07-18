@@ -39,12 +39,3 @@ You can install and run this project in **two** primary ways:
 4. **Run the application**
    ```bash
    ./ReelCalculator
-
-## Screenshots
-![Example 1:](Program%20Images/image-one.png)
-
-![Example 2:](Program%20Images/image-two.png)
-
-![Example 3:](Program%20Images/image-three.png)
-
-![Example 4:](Program%20Images/image-four.png)
